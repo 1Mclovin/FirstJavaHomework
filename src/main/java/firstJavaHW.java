@@ -24,7 +24,7 @@ public class firstJavaHW {
         System.out.println(test);
 
         final int myNum = 23;
-       // this would not run due to the above myNum= 43;
+       //  myNum = 21;// this would not run due to the above myNum;
 
         // Java Data types
         //there are primitive data types and then non-primitive
